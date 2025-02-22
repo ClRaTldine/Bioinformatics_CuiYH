@@ -1,1 +1,1 @@
-# Bioinfomatics_CuiYH
+# Bioinformatics_CuiYH
