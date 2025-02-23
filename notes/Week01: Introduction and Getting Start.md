@@ -1,4 +1,4 @@
-# Week01：Introduction and Getting Start
+# Week01: Introduction and Getting Start
 
 崔钰涵 2024.02.21
 
