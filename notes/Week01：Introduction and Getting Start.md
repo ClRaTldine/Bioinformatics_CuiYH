@@ -65,5 +65,5 @@ e.g. 使用最小二乘法 **（算法）** 生成线性回归 **（模型）**
 2. 课下用<ins>每周4-5h</ins>的时间完成**课后作业**以及**Tutorial**的学习和练习
 3. 由于本人几乎没有编程基础，故打算在课下抽出<ins>每周2-3h</ins>的时间自主学习练习**Linux bash**和**R**两门语言，计划将 **《鸟哥Linux私房菜》** 和 **Quick R**作为参考书
 4. 已经与身边同学建立了学习交流群，那就有问题及时问
-5. 记得每3天把自己写的代码备份至Github的ClRaTldine/Bioinformatics_CuiYH
+5. 记得<ins>每3天</ins>把自己写的代码备份至Github的ClRaTldine/Bioinformatics_CuiYH
 
